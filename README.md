@@ -105,9 +105,7 @@ They include:
 
 ## 📚 Author
 
-**[Your Name]**  
-ServiceNow Developer | Project Contributor  
-📧 *[your.email@example.com]*  
+**[JOTHI PRAKASH P, JISHNU S J, MOHAMED SHJITH]**  
 📍 India  
 
 ---
